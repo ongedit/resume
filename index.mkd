@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: https://thuanowa.github.io/
+redirect_url: https://docs.google.com/document/d/1L2t5Ivr03Vk-cpJ0sxKzCnE02qWj2SN8CvzZSmRbyT0
 ---
